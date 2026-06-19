@@ -1,0 +1,7 @@
+main.env
+polybot.db
+__pycache__/
+*.pyc
+.env
+.npm-cache/
+
