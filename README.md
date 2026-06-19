@@ -1,9 +1,17 @@
-# PolyBot TG
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3500&pause=800&color=2E97F7&center=true&vCenter=true&width=600&lines=PolyBot+TG;MTProto+%26+V2Ray+Auto+Poster;Telegram+Proxy+%2B+Config+Bot;Real-time+Admin+Panel" alt="Typing SVG" />
+</div>
 
-[![Python](https://img.shields.io/badge/python-3.10%2B-blue)](https://python.org)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+<div align="center">
+  <img src="https://img.shields.io/badge/python-3.10%2B-2E97F7?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge">
+</div>
 
-A Telegram bot that automatically fetches **MTProto proxies** and **V2Ray configs** (vmess, vless, trojan, ss, hysteria2, etc.) from multiple sources, pings them for latency, and posts the best ones to your Telegram channel — all with a real-time inline admin panel.
+<br>
+
+<div align="center">
+  A Telegram bot that automatically fetches <b>MTProto proxies</b> and <b>V2Ray configs</b> (vmess, vless, trojan, ss, hysteria2, etc.) from multiple sources, pings them for latency, and posts the best ones to your Telegram channel — all with a real-time inline admin panel.
+</div>
 
 ## Features
 
