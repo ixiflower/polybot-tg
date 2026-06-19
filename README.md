@@ -22,7 +22,7 @@ A Telegram bot that automatically fetches **MTProto proxies** and **V2Ray config
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/AmirabbasRouintan/polybot-tg.git
+git clone https://github.com/ixiflower/polybot-tg.git
 cd polybot-tg
 pip install -r requirements.txt
 ```
